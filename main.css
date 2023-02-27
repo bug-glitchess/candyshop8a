@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.headline{
+    height: 15vh;
+    width: 100%;
+    background-color: purple;
+}
+.main{
+    height: 70vh;
+    width: 100%;
+    background-color: red;
+}
+.bottom{
+    height: 15vh;
+    width: 100%;
+    background-color: blue;
+}
